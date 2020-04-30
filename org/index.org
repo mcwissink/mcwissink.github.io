@@ -9,8 +9,8 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 * Work in Progress
 * Projects
 ** Cheskers (Chess vs. Checkers)
-   [[https://mcwissink.github.io/three-chess/][Cheskers]] - [[https://github.com/mcwissink/three-chess][Source]]
-   A useless endeavor. Make sure to choose Chess.
+   + [[https://mcwissink.github.io/three-chess/][Cheskers]] - [[https://github.com/mcwissink/three-chess][Source]]
+   + A useless endeavor. Make sure to choose Chess.
 ** Faito!
-   [[https://sam.ohnopub.net/~faito/faito/index.cgi/][Faito!]] - [[https://sam.ohnopub.net/~faito/faito/index.cgi/][Source]]
-   A 3D fighting game inspired by The Last Airbender and Naruto.
+   + [[https://sam.ohnopub.net/~faito/faito/index.cgi/][Faito!]] - [[https://github.com/sekainogenkai/faito][Source]]
+   + A 3D fighting game inspired by The Last Airbender and Naruto.
