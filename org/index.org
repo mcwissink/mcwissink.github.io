@@ -1,12 +1,12 @@
-#+TITLE: Hello World 
+#+TITLE: Mark Wissink
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
 #+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 #+BEGIN_COMMENT
 https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 #+END_COMMENT
 
-* Work in Progress
 * Projects
 ** Cheskers (Chess vs. Checkers)
    + [[https://mcwissink.github.io/three-chess/][Cheskers]] - [[https://github.com/mcwissink/three-chess][Source]]
