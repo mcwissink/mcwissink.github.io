@@ -8,9 +8,12 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 #+END_COMMENT
 
 * Projects
+** Keyboard.Cafe
+   + [[https://keyboard.cafe/][Keyboard.Cafe]] --- [[https://github.com/mcwissink/piano-player][Source]]
+   + A piano web application where users can play the piano for each other.
 ** Cheskers (Chess vs. Checkers)
-   + [[https://mcwissink.github.io/three-chess/][Cheskers]] - [[https://github.com/mcwissink/three-chess][Source]]
-   + A useless endeavor. Make sure to choose Chess.
+   + [[https://mcwissink.github.io/three-chess/][Cheskers]] --- [[https://github.com/mcwissink/three-chess][Source]]
+   + A useless endeavor. Make sure to choose chess.
 ** Faito!
-   + [[https://sam.ohnopub.net/~faito/faito/index.cgi/][Faito!]] - [[https://github.com/sekainogenkai/faito][Source]]
+   + [[https://sam.ohnopub.net/~faito/faito/index.cgi/][Faito!]] --- [[https://github.com/sekainogenkai/faito][Source]]
    + A 3D fighting game inspired by The Last Airbender and Naruto.
