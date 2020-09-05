@@ -1,0 +1,30 @@
+#+TITLE: tteok bok gi
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+#+BEGIN_COMMENT
+https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
+#+END_COMMENT
+
+* tteok bok gi
+** ingredients
+*** a
+    - 1-2 onions (sliced)
+    - 2 cups rice cake
+    - 150 ml water
+*** b
+    - 2 tbsp korean red chili pepper paste
+    - 4 tbsp korean red chili pepper flake
+    - 1 tbsp minced garlic
+    - 1 tbsp sugar
+    - 7 tbsp corn syrup
+    - 1 pack korean ramen powder
+*** c
+    - 3 slices fish cake
+    - pepper
+** instructions
+   1. combine [[a]] and bring to boil 
+   2. mix [[b]] and add
+   4. add fish cake after it starts to boil again
+   5. change to low heat and cook for 5 mins (boil away water)

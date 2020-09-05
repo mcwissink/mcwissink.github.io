@@ -1,0 +1,25 @@
+#+TITLE: hanish hash
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+#+BEGIN_COMMENT
+https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
+#+END_COMMENT
+
+* hanish hash 
+** ingredients
+*** a
+    - 8 cups chunked veggies (brussel sprouts, sweet potato, onion, potato)
+*** b
+    - 1 tsp. thyme
+    - 1 tsp. salt
+    - 2 tsp. chopped garlic
+    - 1/4 cup oil
+** instructions
+   1. make sauce from [[b]]
+   2. add veggies and toss
+   3. spread on baking sheet.
+   4. roast 400 for 1 hour
+   5. sprinkle parmesan cheese
+   6. (optional) fry chicken or sausage and add
