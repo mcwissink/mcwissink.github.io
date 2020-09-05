@@ -1,0 +1,43 @@
+#+TITLE: vietnamese chicken
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+#+BEGIN_COMMENT
+https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
+#+END_COMMENT
+
+* ingredients
+** a
+   - 1/2 ounce cilantro
+   - 2 chili pepper (thinly sliced)
+   - 2 lime (zest)
+   - 2 lbs chicken (bite-size or cutlet)
+   - 2 teaspoon sriracha
+** b
+   - 2 cucumber (half moons)
+   - 8 ounce shredded carrots
+** c 
+   - 4 tbsp soy sauce
+   - 4 gloves garlic (minced)
+   - 1 tbsp sugar
+** d
+   - 4 tbsp mayonnaise
+* instructions
+** salad
+   1. combine [[b]]
+   2. add half lime zest, half cilantro, half lime juice, salt and pepper
+   3. toss in bowl
+** chicken
+   1. season chicken with salt and pepper
+   2. fry
+** sauce
+   1. <<1>>fry garlic to until fragrant
+   2. add [[c]] and half sriracha, half lime juice
+   3. simmer and stir for 1 minute then turn off heat
+** sriracha mayo
+   1. combine [[d]] with half sriracha
+** rice
+   1. cook rice
+   2. add half lime zest and 1 tbsp butter
+   3. stir
