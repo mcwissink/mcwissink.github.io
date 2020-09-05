@@ -16,7 +16,7 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
    - 2 tsp. chopped garlic
    - 1/4 cup oil
 * instructions
-  1. make sauce from [[b]]
+  1. combine [[b]]
   2. add veggies and toss
   3. spread on baking sheet.
   4. roast 400 for 1 hour

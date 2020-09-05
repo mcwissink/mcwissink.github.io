@@ -1,4 +1,4 @@
-#+TITLE: Mark Wissink
+#+TITLE: mark wissink
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
 #+OPTIONS: html-postamble:nil
@@ -7,17 +7,17 @@
 https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 #+END_COMMENT
 
-* Projects
-** Keyboard.Cafe
-   + [[https://keyboard.cafe/][Keyboard.Cafe]] --- [[https://github.com/mcwissink/piano-player][Source]]
-   + A piano web application where users can play the piano for each other.
-** Cheskers (Chess vs. Checkers)
-   + [[https://mcwissink.github.io/three-chess/][Cheskers]] --- [[https://github.com/mcwissink/three-chess][Source]]
-   + A useless endeavor. Make sure to choose chess.
-** Faito!
-   + [[https://sam.ohnopub.net/~faito/faito/index.cgi/][Faito!]] --- [[https://github.com/sekainogenkai/faito][Source]]
-   + A 3D fighting game inspired by The Last Airbender and Naruto.
-* Recipes
+* projects
+** keyboard.cafe
+   + [[https://keyboard.cafe/][keyboard.cafe]] --- [[https://github.com/mcwissink/piano-player][source code]]
+   + a piano web application where users can play the piano for each other.
+** cheskers
+   + [[https://mcwissink.github.io/three-chess/][cheskers]] --- [[https://github.com/mcwissink/three-chess][source code]]
+   + a useless endeavor. Make sure to choose chess.
+** faito!
+   + [[https://sam.ohnopub.net/~faito/faito/index.cgi/][faito!]] --- [[https://github.com/sekainogenkai/faito][source code]]
+   + a 3D fighting game inspired by The Last Airbender and Naruto.
+* recipes
   + [[file:recipes/hanish-hash.org][hanish hash]]
   + [[file:recipes/kimchi-fried-rice.org][kimchi fried rice]]
   + [[file:recipes/mango-chicken-curry.org][mango chicken curry]]
