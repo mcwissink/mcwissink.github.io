@@ -7,21 +7,20 @@
 https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 #+END_COMMENT
 
-* kimchi fried rice
-** ingredients
-*** a
-    - [green] onion
-    - kimchi (chopped up with scissors)
-    - spam/chicken/meat (kimchi volume = meat volume)
-*** b
-    - 1:1:0.5 ratio sugar:chili powder:soy sauce
-** instructions
-*** prep
-    1. slice onion and fry in pan with oil
-    2. add kimchi and meat
-    3. add [[b]]
-    4. stir in low heat
-*** fried rice
-    1. combine rice, oil, and prop
-    2. put cheese and lid on top
-    3. heat up
+* ingredients
+** a
+   - [green] onion
+   - kimchi (chopped up with scissors)
+   - spam/chicken/meat (kimchi volume = meat volume)
+** b
+   - 1:1:0.5 ratio sugar:chili powder:soy sauce
+* instructions
+** prep
+   1. slice onion and fry in pan with oil
+   2. add kimchi and meat
+   3. add [[b]]
+   4. stir in low heat
+** fried rice
+   1. combine rice, oil, and prop
+   2. put cheese and lid on top
+   3. heat up

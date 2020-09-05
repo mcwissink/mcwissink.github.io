@@ -7,23 +7,22 @@
 https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 #+END_COMMENT
 
-* mango chicken curry
-** ingredients
-*** a
-    - 1/4 cup flour
-    - 2 tbsp curry powder
-    - 1 tsp salt
-    - 1/4 tsp cayenne pepper
-*** b
-    - 2 garlic cloves
-    - 1 red onion
-    - 1 tbsp fresh ginger
-    - 1 red bell pepper
-*** c
-    - 4 cap chicken broth
-    - 3 lbs chicken
-** instructions
-   1. <<1>>mix and toss [[a]] with chicken
-   2. brown in 2-4 tbsp of olive oil
-   3. <<3>>chop and saute [[b]] in 2 tbsp of olive oil
-   4. add [[1]] to [[3]] to chicken broth and cook at simmer til reduced by 1/4 and chicken is cooked through
+* ingredients
+** a
+   - 1/4 cup flour
+   - 2 tbsp curry powder
+   - 1 tsp salt
+   - 1/4 tsp cayenne pepper
+** b
+   - 2 garlic cloves
+   - 1 red onion
+   - 1 tbsp fresh ginger
+   - 1 red bell pepper
+** c
+   - 4 cap chicken broth
+   - 3 lbs chicken
+* instructions
+  1. <<1>>mix and toss [[a]] with chicken
+  2. brown in 2-4 tbsp of olive oil
+  3. <<3>>chop and saute [[b]] in 2 tbsp of olive oil
+  4. add [[1]] to [[3]] to chicken broth and cook at simmer til reduced by 1/4 and chicken is cooked through
