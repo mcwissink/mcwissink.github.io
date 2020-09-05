@@ -22,3 +22,4 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
   + [[file:recipes/kimchi-fried-rice.org][kimchi fried rice]]
   + [[file:recipes/mango-chicken-curry.org][mango chicken curry]]
   + [[file:recipes/tteok-bok-gi.org][tteok bok gi]]
+  + [[file:recipes/vietnamese-chicken.org][vietnamese chicken]]
