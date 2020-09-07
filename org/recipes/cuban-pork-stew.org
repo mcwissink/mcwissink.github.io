@@ -3,9 +3,10 @@
 
 * ingredients
 ** a
-   - 1 lb pork
+   - 1 lb pork (bite-size)
    - 2 tsp olive oil
    - pinch of salt
+** b
    - 1/2 onion chopped
    - 14.5 oz can chopped tomatoes
    - 1/2 bunch fresh cilantro coarsely chopped
@@ -13,6 +14,12 @@
    - 1 1/2 tbsp fresh lime juice
    - 2 tbsp brown sugar
    - 1 tsp cumin
+** c
    - 14 oz can black beans
 * instructions
-  - make a stew I guess
+  1. heat olive oil in stew pan and brown meat
+  2. add salt and onion, cook till lightly browned
+  3. add [[b]]
+  4. cover and simmer for 1 hour, stirring occasionally
+  5. add beans and simmer for 5 minutes
+  6. serve over cooked rice with goat cheese
