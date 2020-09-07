@@ -13,7 +13,7 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
    + a piano web application where users can play the piano for each other.
 ** cheskers
    + [[https://mcwissink.github.io/three-chess/][cheskers]] --- [[https://github.com/mcwissink/three-chess][source code]]
-   + a useless endeavor. make sure to choose chess.
+   + the classic battle of chess vs. checkers. make sure to choose chess.
 ** faito!
    + [[https://sam.ohnopub.net/~faito/faito/index.cgi/][faito!]] --- [[https://github.com/sekainogenkai/faito][source code]]
    + a 3D fighting game inspired by The Last Airbender and Naruto.

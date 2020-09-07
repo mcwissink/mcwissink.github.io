@@ -7,19 +7,18 @@
 https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 #+END_COMMENT
 
-* cuban pork stew
-** ingredients
-*** a
-    - 1 lb pork
-    - 2 tsp olive oil
-    - pinch of salt
-    - 1/2 onion chopped
-    - 14.5 oz can chopped tomatoes
-    - 1/2 bunch fresh cilantro coarsely chopped
-    - 1/3 cup minced garlic
-    - 1 1/2 tbsp fresh lime juice
-    - 2 tbsp brown sugar
-    - 1 tsp cumin
-    - 14 oz can black beans
-** instructions
-   - make a stew I guess
+* ingredients
+** a
+   - 1 lb pork
+   - 2 tsp olive oil
+   - pinch of salt
+   - 1/2 onion chopped
+   - 14.5 oz can chopped tomatoes
+   - 1/2 bunch fresh cilantro coarsely chopped
+   - 1/3 cup minced garlic
+   - 1 1/2 tbsp fresh lime juice
+   - 2 tbsp brown sugar
+   - 1 tsp cumin
+   - 14 oz can black beans
+* instructions
+  - make a stew I guess
