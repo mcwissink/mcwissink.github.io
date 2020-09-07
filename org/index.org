@@ -24,3 +24,4 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
   + [[file:recipes/tteok-bok-gi.org][tteok bok gi]]
   + [[file:recipes/vietnamese-chicken.org][vietnamese chicken]]
   + [[file:recipes/cuban-pork-stew.org][cuban pork stew]]
+  + [[file:recipes/spicy-fire-chicken.org][spicy fire chicken]]
