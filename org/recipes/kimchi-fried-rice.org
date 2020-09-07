@@ -1,11 +1,5 @@
+#+SETUPFILE: config.org
 #+TITLE: kimchi fried rice
-#+OPTIONS: toc:nil
-#+OPTIONS: num:nil
-#+OPTIONS: html-postamble:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
-#+BEGIN_COMMENT
-https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
-#+END_COMMENT
 
 * ingredients
 ** a
