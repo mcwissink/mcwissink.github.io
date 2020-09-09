@@ -29,4 +29,3 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
    |----------------+---------------------|
    | 1 tbsp         | 3 tsp               |
    | 1 garlic clove | 1 tsp garlic minced |
-
