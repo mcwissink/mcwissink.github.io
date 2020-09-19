@@ -25,6 +25,7 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
   + [[file:recipes/vietnamese-chicken.org][vietnamese chicken]]
   + [[file:recipes/cuban-pork-stew.org][cuban pork stew]]
   + [[file:recipes/spicy-fire-chicken.org][spicy fire chicken]]
+  + [[file:recipes/chicken-coconut-cilantro-lime.org][chicken coconut cilantro lime]]
 ** conversion chart
    |----------------+---------------------|
    | 1 tbsp         | 3 tsp               |

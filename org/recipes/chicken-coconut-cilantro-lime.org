@@ -1,0 +1,32 @@
+#+SETUPFILE: config.org
+#+TITLE: chicken coconut cilantro lime sauce
+
+* ingredients
+** a
+   - 1 1/2 pounds boneless chicken breasts
+   - 2 tbsp olive oil
+   - 2 tbsp butter
+   - 2 green onions (green and white separated)
+   - 2 cloves garlic (minced)
+   - 1 can unsweetened coconut milk
+   - 2-3 tbsp fresh chopped cilantro
+   - kosher salt and fresh black pepper
+** b
+   - 1/2 cup chicken stock
+   - 2 tbsp fresh lime juice
+   - zest of 1 lime
+   - 2 tbsp honey
+   - 1/2 tsp red pepper flakes
+* instructions
+  1. slice chicken in half lengthwise
+  2. pound each cutlet
+  3. season with salt and pepper
+  4. melt butter with 1 tbsp oil in pan over medium heat
+  5. add chicken when hot and sear until golden brown
+  6. remove chicken from pan
+  7. add 1 tbsp olive oilk, green onions (white), and garlic until fragrant
+  8. add [[b]] and keep at a simmer for 3-4 minutes
+  9. stir in coconut milk and season with salt and pepper
+  10. simmer for 4-5 minutes
+  11. return chicken to pan until chicken is cooked (4-5 minutes)
+  12. stir in green onion (green) and cilantro
