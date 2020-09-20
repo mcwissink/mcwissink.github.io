@@ -1,0 +1,19 @@
+#+SETUPFILE: config.org
+#+TITLE: almond bars
+
+* ingredients
+** a
+   - 1 cup butter
+   - 2 cup sugar
+   - 4 eggs
+   - 2 cup flour
+   - 2 tsp almond extract
+   - pinch of sugar
+** b
+   - 1 tbsp sugar
+   - 1/2 cup sliced almonds
+* instructions
+  1. mix [[a]]
+  2. sprinkle with [[b]]
+  3. bake at 350 for 30-40 min
+
