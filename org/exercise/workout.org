@@ -1,0 +1,30 @@
+#+SETUPFILE: config.org
+#+TITLE: workout
+(r) = reps, (s) = seconds
+* [[https://www.youtube.com/watch?v=3p8EBPVZ2Iw][abs]]
+  |----------------------+-----|
+  | high knee taps       | 30s |
+  | russian twist        | 30s |
+  | leg raises           | 30s |
+  | hip raises           | 30s |
+  | flutter kicks        | 30s |
+  | plank knees to elbow | 30s |
+  | chair situps         | 30s |
+  | seated in and outs   | 30s |
+  | jumping jacks        | 30s |
+  | plank till drop      | 1r  |
+* [[https://www.youtube.com/watch?v=Jbvb_MMGc8s][leg]]
+  |-----------------------+---------------|
+  | squat lunges          | 30s           |
+  | bulgarian split squat | 10r each side |
+  | lunges                | 10r each side |
+  | jump squats           | 15r           |
+  | jumping jacks         | 40r           |
+  | squats                | 20r           |
+  | side squat            | 10r each side |
+  | calf raises           | 15r each side |
+  | wall sit              | 45s           |
+* [[https://www.youtube.com/watch?v=LwTGJdnmZWo][chest]]
+  |---------+-----|
+  | pushups | 40r |
+  
