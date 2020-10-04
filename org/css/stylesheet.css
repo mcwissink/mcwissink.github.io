@@ -1,5 +1,9 @@
 /* https://sandyuraz.com/articles/orgmode-css/ */
-@import url(https://fonts.googleapis.com/css?family=Inconsolata|Inter&display=swap);
+html {
+    font-family: system-ui;
+    font-weight: 300;
+}
+
 body {
     margin:40px auto;
     max-width:900px;
@@ -23,19 +27,11 @@ h2 {
 }
 
 h1,h2,h3 {
+    font-weight: 350;
     line-height:1.2;
-    font-family:Inter,sans-serif
 }
 
 img {
     width:750px;
     border-radius:10px
-}
-pre {
-    font-family:Inconsolata,monospace
-}
-
-::selection {
-    color:#fff;
-    background:#ff4081
 }

@@ -19,17 +19,17 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
    + a 3D fighting game inspired by The Last Airbender and Naruto.
 * recipes
 ** cooking
+   + [[file:recipes/chicken-coconut-cilantro-lime.org][chicken coconut cilantro lime]]
+   + [[file:recipes/cuban-pork-stew.org][cuban pork stew]]
    + [[file:recipes/hanish-hash.org][hanish hash]]
    + [[file:recipes/kimchi-fried-rice.org][kimchi fried rice]]
    + [[file:recipes/mango-chicken-curry.org][mango chicken curry]]
+   + [[file:recipes/spicy-fire-chicken.org][spicy fire chicken]]
    + [[file:recipes/tteok-bok-gi.org][tteok bok gi]]
    + [[file:recipes/vietnamese-chicken.org][vietnamese chicken]]
-   + [[file:recipes/cuban-pork-stew.org][cuban pork stew]]
-   + [[file:recipes/spicy-fire-chicken.org][spicy fire chicken]]
-   + [[file:recipes/chicken-coconut-cilantro-lime.org][chicken coconut cilantro lime]]
 ** baking
    + [[file:recipes/almond-bars.org][almond bars]]
 ** conversion chart
    |----------------+---------------------|
    | 1 tbsp         | 3 tsp               |
-   | 1 garlic clove | 1 tsp garlic minced |
+   | 2 garlic clove | 1 tsp garlic minced |
