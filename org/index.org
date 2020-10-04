@@ -11,7 +11,7 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 * projects
 ** keyboard.cafe
    + [[https://keyboard.cafe/][keyboard.cafe]] --- [[https://github.com/mcwissink/piano-player][source code]]
-   + a piano web application where users can play the piano for each other.
+   + a piano web application where users can play a real-time piano.
 ** cheskers
    + [[https://mcwissink.github.io/three-chess/][cheskers]] --- [[https://github.com/mcwissink/three-chess][source code]]
    + the classic battle of chess vs. checkers. make sure to choose chess.

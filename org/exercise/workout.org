@@ -13,7 +13,7 @@
   | seated in and outs   | 30s |
   | jumping jacks        | 30s |
   | plank till drop      | 1r  |
-* [[https://www.youtube.com/watch?v=Jbvb_MMGc8s][leg]]
+* [[https://www.youtube.com/watch?v=Jbvb_MMGc8s][legs]]
   |-----------------------+---------------|
   | squat lunges          | 30s           |
   | bulgarian split squat | 10r each side |
