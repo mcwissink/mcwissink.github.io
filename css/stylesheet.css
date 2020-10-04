@@ -1,18 +1,12 @@
-/* https://sandyuraz.com/articles/orgmode-css/ */
-html {
-    font-family: system-ui;
-    font-weight: 300;
-    letter-spacing: length;
-}
-
 body {
+    font-family: sans-serif;
+    font-weight: 200;
     margin:40px auto;
     max-width:900px;
     line-height:1.6;
     font-size:16px;
     color:#333;
     padding:0 10px;
-    font-family:Inter,sans-serif
 }
 
 a {
@@ -28,7 +22,7 @@ h2 {
 }
 
 h1,h2,h3 {
-    font-weight: 350;
+    font-weight: 400;
     line-height:1.2;
 }
 
