@@ -1,0 +1,32 @@
+#+SETUPFILE: config.org
+#+TITLE: sesame soy pork
+
+* ingredients
+** a
+   - 1.25 lbs ground pork
+** b
+   - 2 carrots (shredded)
+   - 1/3 cup sesame dressing
+   - 8 tbsp sweet soy glaze
+** c 
+   - 1 tbsp butter
+   - 2 limes
+** d
+   - 1.5 tbsp sweet thai chili sauce
+   - 2 tbsp mayonnaise
+** e
+   - 1 oz crispy fried onions
+   - 0.5 oz cilantro (1/3 bunch) (chopped)
+* instructions
+** rice 
+   1. cook rice
+   2. zest limes
+   3. stir [[c]] into rice
+** chili mayo
+   1. combine [[d]]
+** pork
+   1. heat pork in pan with salt and oil
+   2. cook until brown
+   3. add [[b]]
+   4. cook until carrots tender and sauce thick
+   5. season to taste with salt/pepper

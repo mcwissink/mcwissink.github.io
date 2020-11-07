@@ -28,6 +28,7 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
    + [[file:recipes/spicy-fire-chicken.org][spicy fire chicken]]
    + [[file:recipes/tteok-bok-gi.org][tteok bok gi]]
    + [[file:recipes/vietnamese-chicken.org][vietnamese chicken]]
+   + [[file:recipes/sesame-soy-pork.org][sesame soy pork]]
 ** baking
    + [[file:recipes/almond-bars.org][almond bars]]
 ** conversion chart
